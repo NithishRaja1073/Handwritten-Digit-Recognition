@@ -14,11 +14,11 @@ The handwritten digit recognition is the solution to this problem which uses the
 The interesting Python project requires you to have basic knowledge of Python programming, 
 deep learning with Keras library and the Tkinter library for building GUI.
 
-#Dataset
+# Dataset
 
 MNIST dataset
 
-#In this Project
+# In this Project
 
 1. Import the libraries and load the dataset
 
@@ -33,7 +33,7 @@ MNIST dataset
 6. Create GUI to predict digits
 
 
-#Summary
+# Summary
 
 On the end of this Project, we have successfully built a Python deep learning project on handwritten digit recognition app. 
 We have built and trained the Convolutional neural network which is very effective for image classification purposes. 
