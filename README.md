@@ -1,7 +1,9 @@
 # Handwritten-Digit-Recognition by Nithish Raja
 Handwritten Digit Recognition Project using CNN (Convolutional Neural Network) under the domain of Deep Learning. 
 
-# Programming Language: Python
+# Programming Language
+
+Python
 
 # What is Handwritten Digit Recognition?
 
